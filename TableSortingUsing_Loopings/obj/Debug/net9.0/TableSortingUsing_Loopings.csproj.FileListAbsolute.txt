@@ -1,0 +1,11 @@
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\bin\Debug\net9.0\TableSortingUsing_Loopings.deps.json
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\bin\Debug\net9.0\TableSortingUsing_Loopings.dll
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\bin\Debug\net9.0\TableSortingUsing_Loopings.pdb
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\obj\Debug\net9.0\TableSortingUsing_Loopings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\obj\Debug\net9.0\TableSortingUsing_Loopings.AssemblyInfoInputs.cache
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\obj\Debug\net9.0\TableSortingUsing_Loopings.AssemblyInfo.cs
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\obj\Debug\net9.0\TableSortingUsing_Loopings.csproj.CoreCompileInputs.cache
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\obj\Debug\net9.0\TableSortingUsing_Loopings.dll
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\obj\Debug\net9.0\refint\TableSortingUsing_Loopings.dll
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\obj\Debug\net9.0\TableSortingUsing_Loopings.pdb
+C:\Education\C# - OOPS\TableSortingUsing_Loopings\obj\Debug\net9.0\ref\TableSortingUsing_Loopings.dll
